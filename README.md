@@ -9,8 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 📫 How to reach me: kulkarnibhimsen4@gmail.com
 - ⚡ Fun fact: Along with working, I'm also persuing M. Tech in Computer Science.
 
-<a href="https://www.github.com/dipayansarkar47" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href=" " target="_blank" rel="noreferrer"><img
+src=" " /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayansarkar47&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /> </p>
 
 <p align="left"> <a href="https://twitter.com/codewithbiki" target="blank"><img src="https://img.shields.io/twitter/follow/codewithbiki?logo=twitter&style=for-the-badge" alt="codewithbiki" /></a> </p>

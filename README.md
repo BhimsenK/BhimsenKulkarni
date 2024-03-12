@@ -16,6 +16,15 @@ src="https://img.shields.io/github/followers/BhimsenK?logo=github&style=for-the-
 
 <p align="left"> <a href="https://twitter.com/BhimsenKul49243" target="blank"><img src="https://img.shields.io/twitter/follow/BhimsenKul49243?logo=twitter&style=for-the-badge" alt="codewithbiki" /></a> </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/bhimsenkul" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20with%20Me-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with Me on LinkedIn" />
+  </a>
+</p>
+
+
+
+
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </p>

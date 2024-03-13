@@ -1,31 +1,11 @@
+<h1 align="center">Hi 👋, I'm Bhimsen Monoharrao Kulkarni</h1>
+<h3 align="center">Infrastructure Automation Engineer || AI/ML</h3>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhimsen Kulkarni
-======================================================================================================================================
-<h4>An Infrastructure Automation Developer | AI ML </h4>
+- 🔭 I’m currently working on **Automation Project**
 
-- 🔭 I’m currently working on a Automation & AI/ML Project
-- 🌱 I’m Interested to work on AI/ML and Data Science.
-- 📫 How to reach me: kulkarnibhimsen4@gmail.com
-- ⚡ Fun fact: Along with working, I'm also persuing M. Tech in Computer Science.
-
-<a href="https://github.com/BhimsenK" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/BhimsenK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BhimsenK&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22BhimsenK" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/BhimsenKul49243" target="blank"><img src="https://img.shields.io/twitter/follow/BhimsenKul49243?logo=twitter&style=for-the-badge" alt="codewithbiki" /></a> </p>
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/bhimsenkul" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20with%20Me-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with Me on LinkedIn" />
-  </a>
 </p>
 
-
-
-
-
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </p>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
